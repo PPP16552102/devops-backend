@@ -2,15 +2,15 @@ const http = require('http');
 
 let users = [
     {
-        id: 111,
+        id: 1,
         name: 'peter'
     },
     {
-        id: 222,
+        id: 2,
         name: 'lily'
     },
     {
-        id: 333,
+        id: 3,
         name: 'sam'
     },
 ]
